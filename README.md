@@ -10,10 +10,10 @@ Veriye dayalı karar verme süreçlerini otomatize ederek ve karmaşık piyasa d
 
 Şu anda aktif olarak geliştirdiğimiz ana projelerimiz:
 
-*   **[WSS Scanner](./wss-scanner):** BIST ve Kripto Piyasaları için Wick Scalp Setup (WSS) indikatörüne dayalı bir sinyal tarayıcısı.
+*   **[WSS Scanner](https://github.com/azmisahin-finance/wss-scanner):** BIST ve Kripto Piyasaları için Wick Scalp Setup (WSS) indikatörüne dayalı bir sinyal tarayıcısı.
 
 *(Gelecekteki projelerinizi buraya ekleyebilirsiniz.)*
 
 ## 🤝 Katkıda Bulunma ve İletişim
 
-Projelerimiz hakkında daha fazla bilgi almak veya iş birliği yapmak isterseniz, lütfen [e-posta](mailto:your-email@example.com) yoluyla iletişime geçin.
+Projelerimiz hakkında daha fazla bilgi almak veya iş birliği yapmak isterseniz, lütfen [e-posta](mailto:azmisahin@outlook.com) yoluyla iletişime geçin.
